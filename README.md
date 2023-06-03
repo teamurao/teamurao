@@ -7,11 +7,11 @@
 
 ### :woman_technologist: About Me :
 
-- Teaching kids and students programming
-- Fighting with models for accuracy 
-- "Yes, python isn't a snake and bug is a mistake"
-- Like to watch memes about programmers, the joke got out of hand
-- Never tell you to turn your computer off and on (and do it myself)
+- :see_no_evil: Young data scientist in a big data world
+- :knife: Fighting with models for accuracy 
+- :woman_teacher: Teaching kids and students programming
+- :beetle: Never tell you to turn your computer off and on (and do it myself)
+- :upside_down_face: Like to watch memes about programmers, the joke got out of hand
 
 ---
 
