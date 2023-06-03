@@ -1,7 +1,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
 </div>
-<h1 align="center">hey there 👋</h1>
+<h1 align="center"> hey there 👋</h1>
+
+---
+
+### :woman_technologist: About Me :
+
+- Teaching students programming
+- Fighting with models for accuracy 
+- "Yes, python isn't a snake and bug is a mistake"
+- Like to watch memes about programmers, the joke got out of hand
+- Never tell you to turn your computer off and on (and do it myself)
 
 ---
 
