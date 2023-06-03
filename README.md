@@ -28,5 +28,4 @@
   <img src="https://lightgbm.readthedocs.io/en/v3.3.2/_images/LightGBM_logo_black_text.svg" title="LightGBM" alt="LightGBM" width="80" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" title="CatBoost" alt="CatBoost" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>
 </div>
