@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">
-  Hi, there
-  <img src="[https://giphy.com/gifs/Friends-episode-2-friends-tv-the-one-where-no-ones-ready-VhXKWqghv1kvbKBnwH](https://media.giphy.com/media/VhXKWqghv1kvbKBnwH/giphy.gif)" width="480px"/>
+  <img src="https://media.giphy.com/media/VhXKWqghv1kvbKBnwH/giphy.gif" width="480px"/>
 </h1> 
 
 ---
