@@ -7,7 +7,7 @@
 
 ### :woman_technologist: About Me :
 
-- Teaching students programming
+- Teaching kids and students programming
 - Fighting with models for accuracy 
 - "Yes, python isn't a snake and bug is a mistake"
 - Like to watch memes about programmers, the joke got out of hand
