@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/VhXKWqghv1kvbKBnwH/giphy.gif" width="480px"/>
-</h1> 
-
+<div id="header" align="center">
+  Hi there 👋
+  <img src="https://media.giphy.com/media/VhXKWqghv1kvbKBnwH/giphy.gif" width="100"/>
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
