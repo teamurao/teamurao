@@ -9,7 +9,7 @@
 
 - :see_no_evil: Young data scientist in a big data world
 - :knife: Fighting with models for accuracy 
-- :woman_teacher: Teaching kids and students programming games and bots and games in python
+- :woman_teacher: Teaching kids and students programming games and bots in python
 - :beetle: Never tell you to turn your computer off and on (and do it myself)
 - :upside_down_face: Like to watch memes about programmers, the joke got out of hand
 
